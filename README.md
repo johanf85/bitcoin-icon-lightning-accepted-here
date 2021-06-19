@@ -6,7 +6,7 @@ Found a vector format SVG of below image on [https://github.com/lncm/ideas/blob/
 <img src="https://raw.githubusercontent.com/johanf85/bitcoin-icon-lightning-accepted-here/43e2a88975036838ae239906f885155360ce011b/bitcoin-lightning-accepted-here-vector-text-to-path.svg" alt="drawing" width="250"/>
 
 
-<img src="https://github.com/johanf85/bitcoin-icon-lightning-accepted-here/blob/main/goed-traced.svg
+<img src="https://raw.github.com/johanf85/bitcoin-icon-lightning-accepted-here/blob/main/goed-traced.svg
 " alt="drawing" width="250"/>
 
 
